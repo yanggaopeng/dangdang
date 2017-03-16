@@ -1,0 +1,273 @@
+@charset "utf-8";
+/*shop头部*/
+.top{
+	height:30px;
+	margin-top:11px;
+}
+.top img{
+	float:left;
+	margin-left:30px;
+	cursor:pointer;
+}
+.top p{
+	float:left;
+	height:16px;
+	margin-top:14px;
+	cursor:pointer;
+}
+/*挑选sop头部*/
+.Sort-title{
+	height:19px;
+	border:1px solid #ccc;
+	background:url(../img/shopping_commend_bg.gif) repeat-x;
+}
+.Sort-title p{
+	float:left;
+	height:19px;
+	line-height:19px;
+	margin-left:10px;
+	cursor:pointer;
+}
+.Sort-title img{
+	float:right;
+	margin:3px 4px 0px 0px;
+	cursor:pointer;
+}
+/*挑选内容*/
+.Sort-center{
+	height:130px;
+	border:1px solid #ccc;
+	border-top:none;
+	/*display:none;*/
+}
+.Sort-center li{
+	float:left;
+}
+
+.puplic1{
+	width:212px;
+	margin:0px 10px 0px 14px;
+}
+.puplic1 p{
+	height:30px;
+	line-height:30px;
+	margin-top:2px;
+	cursor:pointer;
+}
+.puplic1 p a{
+	color:#1965b3;	
+}
+.puplic2{
+	width:50px;
+	margin-left:25px;
+}
+.puplic2 p{
+	height:24px;
+	line-height:24px;
+	margin-top:6px;
+	color:#333333;
+	cursor:pointer;
+}
+.puplic3 p{
+
+	text-decoration:line-through;
+}
+.puplic4 p a{
+	color:#ed610c;
+	cursor:pointer;
+}
+/*选购好的*/
+.Choose{
+	height:20px;
+	margin-top:20px;
+	font-weight:bold;
+}
+/*购物车*/
+.Shop{
+	height:304px;
+	border:2px solid #ccc;
+}
+.Shop-title{
+	height:40px;
+	background-color:#d8e4c6;
+}
+.Shop-title ul li{
+	float:left;
+}
+.Puplic{
+	height:40px;
+	line-height:40px;
+	cursor:pointer;
+}
+.sp{
+	width:480px;
+	margin-right:5px;
+	padding-left:30px;
+}
+.jf{
+	width:50px;
+	margin-right:63px;
+}
+.sc{
+	width:50px;
+	margin-right:50px;
+}
+.dd{
+	width:90px;
+	margin-right:6px;
+}
+.sl{
+	width:70px;
+	margin-right:6px;
+}
+.re{
+	width:50px;
+}
+/*购物车内容*/
+.Shop-center{
+	height:205px;
+}
+.Shop-center li{
+	float:left;
+	width:956px;
+	height:40px;
+	border-bottom:1px dotted #ccc;
+
+}
+.Shop-center li span{
+	display:block;
+	float:left;
+}
+.text{
+	width:216px;
+	height:40px;
+	line-height:40px;
+	margin:0px 240px 0px 24px;
+}
+.text a{
+	color:#1965b3;
+}
+.Sku{
+	width:50px;
+	height:40px;
+	line-height:40px;
+	margin-left:43px;
+	cursor:pointer;
+}
+.bazaar{
+	width:50px;
+	height:40px;
+	line-height:40px;
+	margin-left:50px;
+	cursor:pointer;
+}
+.bazaar p{
+	float:right;
+	width:33px;
+	height:40px;
+	line-height:40px;
+}
+.Favorable{
+	width:96px;
+	height:40x;
+	line-height:40px;
+	margin-left:40px;
+	cursor:pointer;
+}
+.Favorable p{
+	float:left;
+	width:33px;
+	height:40px;
+	line-height:40px;
+}
+#Coin{
+	float:left;
+	width:10px;
+	height:40px;
+}
+.Inp{
+	width:47px;
+	margin-left:6px;
+	cursor:pointer;
+}
+.Inp input{
+	border:none;
+	width:34px;
+	height:18px;
+	border:1px solid #ccc;
+	outline:none;
+	text-align:center;
+	margin:10px 8px;
+	cursor:pointer;
+}
+.delete{
+	width:40px;
+	height:40px;
+	line-height:40px;
+	margin-left:36px;
+	text-align:center;
+}
+.delete a{
+	color:#1965b3;
+}
+/*购物车 底部*/
+.Total{
+	height:59px;
+	background-color:#d8e4c6;
+}
+.Total ul{
+	float:right;
+	width:434px;
+}
+.Total ul li{
+	float:left;
+}
+.Money{
+	width:133px;
+	margin-right:8px;
+}
+.Money span{
+	display:block;
+	float:left;
+	width:83px;
+	height:31px;
+	line-height:31px;
+	cursor:pointer;
+}
+.Money p{
+	float:left;
+	width:50px;
+	height:31px;
+	line-height:31px;
+	color:#bd3e00;
+	cursor:pointer;
+}
+.bar{
+	height:45px;
+	border:1px solid #ccc;
+	margin-top:9px;
+	cursor:pointer;
+}
+.Sp span{
+	display:block;
+	float:left;
+	width:93px;
+	height:59px;
+	line-height:59px;
+	text-align:center;
+	cursor:pointer;
+	font-weight:bold;
+	margin-left:15px;
+}
+.Sp p{
+	float:left;
+	width:61px;
+	height:59px;
+	line-height:59px;
+	color:#bd3e00;
+	cursor:pointer;
+}
+.Img img{
+	cursor:pointer;
+	margin:12px 12px 0px 12px;
+}
